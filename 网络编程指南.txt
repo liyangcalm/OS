@@ -1,0 +1,3 @@
+Beej的网络编程指南
+http://beej.us/guide/bgnet/
+http://beej-zhcn.netdpi.net/03-ip-address-structure-translation/3-4-IP-address-Part2
